@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oneearth-agrimarket/static/css/main.a1d962df.css",
+    "main.js": "/oneearth-agrimarket/static/js/main.f00ddf64.js",
+    "static/js/453.7ee4257d.chunk.js": "/oneearth-agrimarket/static/js/453.7ee4257d.chunk.js",
+    "static/media/logo.svg": "/oneearth-agrimarket/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/oneearth-agrimarket/index.html",
+    "main.a1d962df.css.map": "/oneearth-agrimarket/static/css/main.a1d962df.css.map",
+    "main.f00ddf64.js.map": "/oneearth-agrimarket/static/js/main.f00ddf64.js.map",
+    "453.7ee4257d.chunk.js.map": "/oneearth-agrimarket/static/js/453.7ee4257d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1d962df.css",
+    "static/js/main.f00ddf64.js"
+  ]
+}
