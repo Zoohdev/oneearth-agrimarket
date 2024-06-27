@@ -1,0 +1,171 @@
+body {
+  background-color: #f4f1ea;
+  color: #333;
+  font-family: 'Georgia', serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.cover-container {
+  max-width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.masthead {
+  background-color: #4a772f;
+  padding: 1rem;
+}
+
+.masthead .inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.masthead-logo {
+  max-width: 150px;
+  height: auto;
+}
+
+.nav-masthead .nav-link {
+  color: #f4f1ea;
+  font-size: 1.1rem;
+  margin: 0 1rem;
+}
+
+.nav-masthead .nav-link.active {
+  border-bottom: 2px solid #f4f1ea;
+}
+
+.nav-masthead .nav-link:hover {
+  color: #e0a800;
+}
+
+.inner.cover {
+  padding: 2rem;
+}
+
+.cover-heading {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.lead {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.cover-image {
+  max-width: 100%;
+  height: auto;
+  margin: 2rem 0;
+  border-radius: 10px;
+}
+
+.btn-secondary {
+  background-color: #4a772f;
+  color: #fff;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.btn-secondary:hover {
+  background-color: #3e6531;
+}
+
+.mission-statement {
+  background-color: #f9f9f9;
+  padding: 2rem 1rem;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+.section-heading {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.mission-list {
+  list-style-type: none;
+  padding: 0;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.mission-list li {
+  margin-bottom: 0.5rem;
+}
+
+.user-form {
+  background-color: #f9f9f9;
+  padding: 2rem 1rem;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+.user-form form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user-form label {
+  margin: 0.5rem 0;
+}
+
+.user-form input {
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.footer {
+  background-color: #4a772f;
+  padding: 1rem 0;
+}
+
+.footer .inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav .nav-link {
+  margin: 0 0.5rem;
+}
+
+.social-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.team-member {
+  margin: 2rem 0;
+}
+
+.team-photo {
+  max-width: 150px;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.team-member h2 {
+  font-size: 1.5rem;
+  margin: 0.5rem 0;
+}
+
+.role {
+  font-style: italic;
+  color: #777;
+  margin-bottom: 0.5rem;
+}
