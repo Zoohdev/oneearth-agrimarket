@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Zoohdev/oneearth-agrimarket.git/static/css/main.a1d962df.css",
+    "main.js": "/Zoohdev/oneearth-agrimarket.git/static/js/main.39f060c4.js",
+    "static/js/453.7ee4257d.chunk.js": "/Zoohdev/oneearth-agrimarket.git/static/js/453.7ee4257d.chunk.js",
+    "static/media/logo.svg": "/Zoohdev/oneearth-agrimarket.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Zoohdev/oneearth-agrimarket.git/index.html",
+    "main.a1d962df.css.map": "/Zoohdev/oneearth-agrimarket.git/static/css/main.a1d962df.css.map",
+    "main.39f060c4.js.map": "/Zoohdev/oneearth-agrimarket.git/static/js/main.39f060c4.js.map",
+    "453.7ee4257d.chunk.js.map": "/Zoohdev/oneearth-agrimarket.git/static/js/453.7ee4257d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1d962df.css",
+    "static/js/main.39f060c4.js"
+  ]
+}
